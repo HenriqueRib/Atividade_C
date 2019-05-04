@@ -5,7 +5,7 @@ main()
 {
 	int vetorA[10];
 	int i,j, troca;
-	
+	// Aqui ja declaramos as variaveis e entrará num loop de repetição
 	for (i=0;i<10;i++)
 	{
 		printf("Digite o %d elemento: ", i);
